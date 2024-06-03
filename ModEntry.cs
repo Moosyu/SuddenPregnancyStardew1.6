@@ -20,6 +20,7 @@ namespace SurpriseBaby1
         {
             if (pregnantNow == 1) {
                 Game1.drawObjectDialogue("You and your partner are expecting!");
+                pregnantNow = 0;
             }
         }
 
@@ -39,4 +40,3 @@ namespace SurpriseBaby1
         }
     }
 }
-
