@@ -1,0 +1,10 @@
+{
+  "Name": "SurpriseBaby1",
+  "Author": "MiphasGrace",
+  "Version": "1.0.1",
+  "Description": "Have a baby as a surprise",
+  "UniqueID": "MiphasGrace.SurpriseBaby1",
+  "EntryDll": "SurpriseBaby1.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [ "Github:Moosyu/SuddenPregnancyStardew1.6" ]
+}
